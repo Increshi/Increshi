@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Rushi Keswar Reddy currently pursuing B.Tech at IIT Tirupati
+- 👋 Hi, I’m Rushi Keswar Reddy currently pursuing M.Tech at IIT Hyderabad
 - 👀 I’m interested and very passionate about AI,ML,NLP and Computer vision.
 - 🌱 I’m currently learning different NLP ,ML algorithms.
 - 🚩 I am preficient in Python, Cpp, Java, JavaScript, SQL, Apex, HTML, Node.js
